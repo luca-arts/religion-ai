@@ -1,8 +1,15 @@
 # run: conda env create --file environment.yml
-name: narafi
+name: religion
+channels: 
+- conda-forge
+- defaults
 dependencies:
 - python==3.8
-# - anaconda
+- pip
+- pip:
+  - notebook
+  
+  # - anaconda
 # - pip
 # - numpy==1.22.2
 # - pip:
