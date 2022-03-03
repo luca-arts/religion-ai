@@ -1,4 +1,4 @@
-# seeing the imperceptible
+# Ai Religion
 
 Project page for research project Religion AI with Matthijs De Block
 
